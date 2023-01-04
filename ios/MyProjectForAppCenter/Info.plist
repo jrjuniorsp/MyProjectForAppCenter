@@ -44,10 +44,6 @@
 			<string>armv7</string>
 		</array>
 		<key>UISupportedInterfaceOrientations</key>
-		<dict>
-			<key>AppSecret</key>
-			<string>"9bc9fabc-0ca7-4feb-b363-c72c3238f2e8"</string>
-		</dict>
 		<array>
 			<string>UIInterfaceOrientationPortrait</string>
 			<string>UIInterfaceOrientationLandscapeLeft</string>
@@ -55,5 +51,7 @@
 		</array>
 		<key>UIViewControllerBasedStatusBarAppearance</key>
 		<false/>
+		<key>AppSecret</key>
+		<string>"9bc9fabc-0ca7-4feb-b363-c72c3238f2e8"</string>
 	</dict>
 </plist>
